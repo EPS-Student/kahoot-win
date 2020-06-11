@@ -10,4 +10,4 @@ When run, it will create an electron window and run the app at localhost:2000, o
 
 You may modify the code to remove the electron stuff.
 
-Remember to give credit to theusaf for this.
+[![Run on Repl.it](https://repl.it/badge/github/EPS-Student/kahoot-winner)](https://repl.it/github/EPS-Student/kahoot-winner)
